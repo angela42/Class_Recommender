@@ -4,8 +4,8 @@ Class recommender system for students to propose and vote on courses they would 
 
 This Week
 ==========
-> 1. Get familiar with Yii. Perhaps do a hello world.
-> 2. If you are new to Git. Do a hello world.
+> 1. Get familiar with [Yii](http://www.yiiframework.com/). Perhaps do a hello world.
+> 2. If you are new to Git as a version control look at some tutorials such as [this one](https://www.atlassian.com/git/tutorial/git-basics)
 > 	- Commands to be comfortable with:
 > 		- Clone
 > 		- Push
