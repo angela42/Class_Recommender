@@ -4,15 +4,15 @@ Class recommender system for students to propose and vote on courses they would 
 
 This Week
 ==========
-> 1) Get familiar with Yii. Perhaps do a hello world.
-> 2) If you are new to Git. Do a hello world.
+> 1. Get familiar with Yii. Perhaps do a hello world.
+> 2. If you are new to Git. Do a hello world.
 > 	- Commands to be comfortable with:
 > 		- Clone
 > 		- Push
 > 		- Pull
 > 		- Add
 > 		- Commit
-> 3) Bring questions to next class meeting.
+> 3. Bring questions to next class meeting.
 
 Next Week
 ==========
