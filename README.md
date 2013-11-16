@@ -16,16 +16,16 @@ This Week
 
 Next Week
 ==========
- - Set up weekly meeting schedule
- - Establish requirements
- - Project plan
+> - Set up weekly meeting schedule
+> - Establish requirements
+> - Project plan
 
 Team Roles
 ------------
-Angela - Team Leader
-Dustin - Architect
-Carrie - Programmer
-Cal - Programmer
+- Angela - Team Leader
+- Dustin - Architect
+- Carrie - Programmer
+- Cal - Programmer
 
 Technology
 ------------
