@@ -3,7 +3,7 @@ Project
 Class recommender system for students to propose and vote on courses they would like to see offered.
 
 This Week
-==========
+----------
 > 1. Get familiar with [Yii](http://www.yiiframework.com/). Perhaps do a hello world.
 > 2. If you are new to Git as a version control look at some tutorials such as [this one](https://www.atlassian.com/git/tutorial/git-basics)
 > 	- Commands to be comfortable with:
@@ -15,7 +15,7 @@ This Week
 > 3. Bring questions to next class meeting.
 
 Next Week
-==========
+----------
 > - Set up weekly meeting schedule
 > - Establish requirements
 > - Project plan
@@ -29,6 +29,10 @@ Team Roles
 
 Technology
 ------------
-PhP based
- - Yii
- - Zend
+> PhP based
+> - Yii
+> - Zend
+
+Useful Links
+------------
+> [Yii Tutorial](http://www.yiiframework.com/doc/blog/) Similar to what we need to accomplish for our site
