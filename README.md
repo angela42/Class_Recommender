@@ -1,3 +1,6 @@
+Hello from Angela 
+
+
 Project
 =========
 Class recommender system for students to propose and vote on courses they would like to see offered.
